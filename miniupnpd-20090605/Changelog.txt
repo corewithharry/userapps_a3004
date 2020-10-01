@@ -118,7 +118,7 @@ VERSION 1.1 :
   genconfig.sh autodetects pf/ipf
 
 2008/02/24:
-  Started to implement UPnP Events. do NOT use it at the moment !
+  Started to implement UPnP Events. Do not use it at the moment !
 
 2008/02/21:
   Added support for the Layer3Forwarding Service
@@ -133,7 +133,7 @@ VERSION 1.1 :
   lease_file patch by Nikos Mavrogiannopoulos.
 
 2008/01/29:
-  some changes to Makefile.openwrt
+  some changed to Makefile.openwrt
   use daemon() - daemonize() is still available for systems lacking daemon()
 
 VERSION 1.0 :
